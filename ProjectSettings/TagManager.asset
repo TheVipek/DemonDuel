@@ -3,11 +3,20 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
+<<<<<<< HEAD
   tags: []
+=======
+  tags:
+  - HumanBullet
+  - Demon
+  - Human
+  - DemonBullet
+>>>>>>> jamVersion
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
+<<<<<<< HEAD
   - 
   - Water
   - UI
@@ -15,6 +24,15 @@ TagManager:
   - 
   - 
   - 
+=======
+  - Platform
+  - Water
+  - UI
+  - Human
+  - Demon
+  - HumanBullet
+  - DemonBullet
+>>>>>>> jamVersion
   - 
   - 
   - 
@@ -41,3 +59,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+<<<<<<< HEAD
+=======
+  - name: Monster
+    uniqueID: 502491331
+    locked: 0
+  - name: Human
+    uniqueID: 3240655795
+    locked: 0
+  - name: UI
+    uniqueID: 2431451919
+    locked: 0
+>>>>>>> jamVersion
